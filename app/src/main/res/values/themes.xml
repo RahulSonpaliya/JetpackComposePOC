@@ -2,6 +2,7 @@
 <resources>
 
     <style name="Theme.JetpackComposePOC" parent="android:Theme.Material.Light.NoActionBar" />
+
     <style name="MyCustomTheme" parent="Theme.MaterialComponents.Light.DarkActionBar">
         <!-- Your custom theme attributes here -->
     </style>
